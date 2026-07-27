@@ -31,3 +31,33 @@ This paper explores the various AI technologies used in marketing, their practic
 
 ---
 *Note: Full publication manuscripts are subject to copyright restrictions. To request complete text PDFs, citation indexes, or collaboration reviews, please contact poornachandra7776@gmail.com.*
+
+---
+
+## 💡 3. Patent Portfolio & Intellectual Property (Selected Records)
+This section lists selected technical and design patents filed, published, and granted in collaboration with engineering research divisions, showcasing a strong footprint in automated medical systems, structural mechanisms, and human-assistive devices.
+
+### 🏥 Advanced Medical Care Systems
+*   **Patent Title:** Bedpan with Hygienic Cleaning System for Bedridden Care
+    *   **Application No:** 202541054241 | **Status:** Formally Published (Official Journal No: 19/2025)
+    *   **Assignee:** New Horizon College of Engineering
+    *   **Scope:** An automated hardware assembly designed to integrate localized sanitization cycles, prioritizing non-invasive patient comfort and automated fluid management interfaces in critical care wards.
+*   **Patent Title:** Smart Bedpan
+    *   **Design Number:** 213040 | **Status:** Fully GRANTED & Registered
+    *   **Scope:** An ergonomically optimized structural industrial design tailored specifically for long-term patient recovery and assistive healthcare monitoring.
+
+### 🛠️ Daily Utility Mechanics & Functional Ergonomics
+*   **Patent Title:** Manual Roti/Chapati Maker with Rolling Pin Holder and Integrated Container Space
+    *   **Application No:** 202441082245 | **Status:** Formally Published (Official Journal No: 46/2024)
+    *   **Scope:** A space-efficient consumer appliance combining a stabilization mechanical matrix, secondary tooling containment arrays, and high-stability functional geometry for automated household food prep.
+*   **Patent Title:** Multi-Purpose Cooling Basket
+    *   **Status:** Fully GRANTED & Registered (Designs Act)
+    *   **Scope:** A thermal-management structural utility design optimizing cross-ventilation mechanics for portable item preservation.
+
+### 🦯 Human Assistive Technologies
+*   **Patent Title:** Extendable Blind Stick with SOS Functionality
+    *   **Application No:** 202441082231 | **Status:** Formally Published (Official Journal No: 46/2024)
+    *   **Scope:** An adaptive mobility aid merging scalable spatial frames with an integrated emergency communications module to provide proactive safety barriers for visually impaired operators.
+
+---
+*Note: A complete exhaustive log tracking all 18 published and granted design/utility assets, corresponding technical documentation, and claim parameters can be formally extracted via the official IP India Public Registry.*
